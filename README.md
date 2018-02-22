@@ -13,6 +13,7 @@ Technologies Used:
 Things I will implement in the future/ need improving:
 
 - Better code structure, making sure it's organized and well formatted
+- Making it more mobile friendly
 - Creating a database with SQL
 - Creating some animations using AngularJS
 - Enabling fullscreen mode when clicking on the pictures
