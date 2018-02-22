@@ -4,6 +4,8 @@ In order to learn more about Web Development and to have a professional portfoli
 
 Technologies Used:
 - <strong>HTML </strong> 
-CSS, Javascript/ JQuery, Php
+- <strong>CSS</strong>
+- <strong> Javascript/ JQuery</strong>
+- <strong>Php</strong>
 
 Things that need
