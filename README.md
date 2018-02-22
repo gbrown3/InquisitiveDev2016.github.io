@@ -1,6 +1,6 @@
 # Photography Portfolio Website
 
- https://inquisitivedev2016.github.io/Photo%20Website/AboutMe
+ https://inquisitivedev2016.github.io/Photo%20Website/webpage
 
 In order to learn more about Web Development and to have a professional portfolio for photography, I have decided to hand code my own portfolio website.
 
